@@ -12,10 +12,10 @@ The purpose of the project is to build a recommendation system to make recommend
 This is how to run the project by following the instructions for sitting up the project locally.
 
 ## Prerequisites
--jupyter
+- jupyter
 
 ## Installation
--Clone the project from repository.
+- Clone the project from repository.
   - Press clone, copy the link with HTTPS.
   - Use git bash to clone
   - Or download the zip file.
