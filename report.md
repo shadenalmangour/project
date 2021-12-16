@@ -45,10 +45,4 @@ This project comtains of three datasets which are: books, users and ratings
     
   # Communication
    This is a slides for the details of the project [book recommendation system slides](https://github.com/shadenalmangour/project/blob/main/book_recommendation_system.pdf)
-                      
-    
-
-
- 
-- 
- 
+               
